@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "version": "0.1.1-alpha",
+  "published_at": "2026-07-26T06:20:27+00:00",
+  "download_url": "https://github.com/Cecilia-Wendy/Caddie-Releases/releases/download/v0.1.1-alpha/Caddie-0.1.1-alpha-macos-arm64.zip",
+  "sha256": "ef75e9a8c5daa0482865e276c3cc8997004a6ffc6edf50634c09b32c00535364",
+  "arch": "arm64",
+  "bundle_id": "app.caddie.alpha",
+  "release_notes": "首个支持应用内自动更新的 Alpha 版本：新增签名校验、数据库备份、失败回滚和应用内更新。",
+  "package_bytes": 45178988,
+  "signature": "eA4nEXEBeY2GfxN6zzRe0HlAkdWm3onr1VOXAirWM6N/FaCdIkvwKEqtgN/oASq0IjZFoAJJxt2nA3lYhhhVDg=="
+}
