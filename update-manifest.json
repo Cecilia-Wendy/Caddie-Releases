@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "version": "0.1.1-alpha",
-  "published_at": "2026-07-26T06:24:09+00:00",
-  "download_url": "https://github.com/Cecilia-Wendy/Caddie-Releases/releases/download/v0.1.1-alpha/Caddie-0.1.1-alpha-macos-arm64.zip",
-  "sha256": "3273c8e1b5eab5be07283dd9fed07837418c88c584b603081cf76629b7ce1502",
+  "version": "0.1.2-alpha",
+  "published_at": "2026-07-26T08:57:26+00:00",
+  "download_url": "https://github.com/Cecilia-Wendy/Caddie-Releases/releases/download/v0.1.2-alpha/Caddie-0.1.2-alpha-macos-arm64.zip",
+  "sha256": "9606f9ccfbccc39e47597395417eaf4b7c6e6eb4ec83232b2abfa7d70264b73f",
   "arch": "arm64",
   "bundle_id": "app.caddie.alpha",
-  "release_notes": "首个支持应用内自动更新的 Alpha 版本：新增签名校验、数据库备份、失败回滚和应用内更新。",
-  "package_bytes": 45179907,
-  "signature": "ewklvQ1svb3+zm8O2x8lg7mOgqDgnr7bDAWfLJ0vy7W2zjrGJ54F7h8owtX7i2uZVmw8Jr8LfdQqzj4mO0reAA=="
+  "release_notes": "新增必要匿名产品分析、Supabase 只写回收、批量上传和失败重试；求职正文仍只保存在本机。",
+  "package_bytes": 45215531,
+  "signature": "jrNIInlGzaAp+VYz7WgjbUSmnb+A/0+Wy/4GA1+i+hrmAqrxTLf1WRsHYnwUkCdAmXXMERMBr5NIWV+4gjY1CA=="
 }
