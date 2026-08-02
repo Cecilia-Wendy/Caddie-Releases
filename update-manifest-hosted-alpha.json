@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "version": "0.2.3-hosted-alpha",
-  "published_at": "2026-08-02T10:24:58+00:00",
-  "download_url": "https://github.com/Cecilia-Wendy/Caddie-Releases/releases/download/v0.2.3-hosted-alpha/Caddie-Hosted-Alpha-0.2.3-hosted-alpha-macos-arm64.zip?download=1",
-  "sha256": "d39bc1c800e468525f1e644be95057c4a5a0c71abde5d228c022f11fcd077d2f",
+  "version": "0.2.4-hosted-alpha",
+  "published_at": "2026-08-02T10:52:29+00:00",
+  "download_url": "https://github.com/Cecilia-Wendy/Caddie-Releases/releases/download/v0.2.4-hosted-alpha/Caddie-Hosted-Alpha-0.2.4-hosted-alpha-macos-arm64.zip?download=1",
+  "sha256": "c8cf6898517880728f76ebaa22149ffb2263fc9c8a9c89869eab6d1df627e79c",
   "arch": "arm64",
   "bundle_id": "app.caddie.hosted-alpha",
-  "release_notes": "匿名产品分析改为后台自动上传并支持失败重试；修复云端数据同步、Apple 日历以及外部 Agent 简历拆解写入。",
-  "package_bytes": 75403040,
-  "signature": "Wjd0BOLyt510KUv3pKVl8MuKuavVgz1KWG5OP1DeJew6xP/lb3uu2xrp9U4DCWX96R2RbckeseleCxPWv0+9Dw=="
+  "release_notes": "新增全局更新提醒：启动后自动检查新版本，顶栏显示更新图标与版本说明；点击即可下载并安装。",
+  "package_bytes": 75403102,
+  "signature": "IHdjcdVX8s4hu0G7tUPEBWV0ZDOsRvonR9xmcAsk+QRxaTeKXCLemPeMjXXq5NrYzteKR5ec1DJv45I9U1VEDQ=="
 }
